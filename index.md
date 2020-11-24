@@ -60,7 +60,8 @@ The information in this section will help you review your migration experience a
     <li><a href='/'>Lessons Learned template</a></li>
 </ol>
 
-{:. General guidance}
+{:. heading-large}
+General guidance
 
 <ol class='list list-bullet'>
     <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
@@ -68,7 +69,8 @@ The information in this section will help you review your migration experience a
     <li><a href='/'>LLC migration case studies</a></li>
 </ol>
 
-{:. Test files}
+{:. heading-large}
+Test files
 
 <ol class='list list-bullet'>
     <li><a href='https://raw.githubusercontent.com/Louis331/Louis331.github.io/master/files/test.txt'>Test file 1</a></li>
