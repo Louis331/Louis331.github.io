@@ -2,8 +2,7 @@
 layout: page
 title: Documentation
 ---
-{: .heading-large}
-Make it Essential – useful information to help your migration 
+{: .heading-large} Make it Essential – useful information to help your migration 
 
 The information in this section will help you understand the purpose of the new service, what support you can get from HM Land Registry and more about your role in migrating your data. All of the documents and links below contain information only and requires no direct action from you. 
 
@@ -17,8 +16,7 @@ The information in this section will help you understand the purpose of the new 
     <li><a href="/">Lessons Learned</a></li>
 </ol>
 
-{:. heading-large}
-Make it Ready
+{:. heading-large} Make it Ready
 
 The information in this section is designed to help you get your service ready for migration to the HM Land registry digital register. It contains useful tools and guides to enable you to complete the ‘Make it Ready’ stage. 
 
@@ -37,8 +35,7 @@ The information in this section is designed to help you get your service ready f
     <li><a href="/">Terms of collaboration</a> - for pre-migration work to begin (Khub)</li>
 </ol>
 
-{:. heading-large}
-Make it Happen
+{:. heading-large} Make it Happen
 
 The information in this section will support you during the delivery stage of your migration. It contains tool and guides to help you plan, track and measure your migration activity while in the ‘Make it Happen’ stage.
 
@@ -50,8 +47,7 @@ The information in this section will support you during the delivery stage of yo
     <li><a href='/'>Benefits and progress checker</a></li>
 </ol>
 
-{:. heading-large}
-Make it Stick
+{:. heading-large} Make it Stick
 
 The information in this section will help you review your migration experience and feedback your experience and learning to HM Land Registry as part of the ‘Make it Stick’ stage. 
 
@@ -60,8 +56,7 @@ The information in this section will help you review your migration experience a
     <li><a href='/'>Lessons Learned template</a></li>
 </ol>
 
-{:. heading-large}
-General guidance
+{:. heading-large} General guidance
 
 <ol class='list list-bullet'>
     <li><a href='/'>Pre-Migration guide - getting your data ready</a></li>
@@ -69,8 +64,7 @@ General guidance
     <li><a href='/'>LLC migration case studies</a></li>
 </ol>
 
-{:. heading-large}
-Test files
+{:. heading-large} Test files
 
 <ol class='list list-bullet'>
     <li><a href='https://raw.githubusercontent.com/Louis331/Louis331.github.io/master/files/test.txt'>Test file 1</a></li>
