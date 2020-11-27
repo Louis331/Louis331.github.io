@@ -76,5 +76,4 @@ The information in this section will help you review your migration experience a
 <ol class='list list-bullet'>
     <li><a href='https://raw.githubusercontent.com/Louis331/Louis331.github.io/master/files/test.txt'>Test file 1</a></li>
     <li><a href='https://github.com/Louis331/Louis331.github.io/raw/master/files/dummy.pdf'>Dummy pdf</a></li>
-    <li><a href='https://github.com/Louis331/Louis331.github.io/blob/master/files/676303.pdf'>Test pdf </a></li>
 </ol>
