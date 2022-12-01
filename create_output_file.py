@@ -11,4 +11,4 @@ for file_object in os.scandir('releases'):
     output.append({"name": filename.replace('.pdf', ''), "link": link})
 
 with open('index.json', 'w') as outputfile:
-  json.dumps(output, outputfile)
+  json.dump(output, outputfile)
