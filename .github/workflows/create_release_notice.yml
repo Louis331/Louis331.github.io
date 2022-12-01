@@ -14,7 +14,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Create release notice JSON
-        run: python create_output_file.py > index.json
+        run: python create_output_file.py
       - name: Commit json to repo
         run: |
           git config --global user.email "${{github.event.publisher.email}}"
