@@ -22,4 +22,3 @@ jobs:
           git add -A
           git commit -m 'Updated release json'
           git push
-
