@@ -17,6 +17,8 @@ jobs:
         run: python create_output_file.py > index.json
       - name: Commit json to repo
         run: |
+          git config --global user.email "${{github.event.publisher.email}}"
+          git config --global user.name "${{github.actor}}"
           git add -A
           git commit -m 'Updated release json'
           git push
