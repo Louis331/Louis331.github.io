@@ -1,6 +1,6 @@
 import os, json
 
-base_url = 'https://raw.githubusercontent.com/Louis331/Louis331.github.io/master/releases/'
+base_url = 'https://louis331.github.io/releases/'
 
 output = []
 
